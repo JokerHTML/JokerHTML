@@ -42,6 +42,7 @@ An AI-powered life-assistant app built with Flutter & Dart — currently in prog
 - 🐦 X: [@needcraftco](https://x.com/needcraftco)
 - 📸 Instagram: [@needcraftco](https://www.instagram.com/needcraftco)
 - ✉️ Email: saadranjha5@gmail.com
+Also on: [Facebook](https://facebook.com/profile.php?id=61595053016573) · [YouTube — NeedCraft](https://youtube.com/@NeedCraftLab) · [YouTube — Joker Gaming](https://youtube.com/@jokergaminglive) · [Threads](https://threads.net/@needcraftco) · [Pinterest](https://pinterest.com/needcraftco) · [Quora](https://quora.com/profile/NeedCraft) · [Reddit](https://reddit.com/user/Saad-Finds-Things) · [Gumroad](https://needcraftco.gumroad.com)
 
 ## GitHub Stats
 
